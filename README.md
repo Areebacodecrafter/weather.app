@@ -1,11 +1,11 @@
 # weather.app
-# 🌦️ AI-Powered Weather UI Website
+# AI-Powered Weather UI Website
 
 A futuristic, responsive weather forecasting website powered by AI and inspired by minimal 3D UI design. Built using **Readdy** and designed with animated weather effects like dynamic clouds, storm visuals, and personalized forecasts.
 
 ---
 
-## 🧠 Features
+##  Features
 
 - ✅ **3D Animated Weather Icons** (clouds, rain, sun, etc.)
 - ✅ **Glassmorphism UI** with a transparent, futuristic look
@@ -17,7 +17,7 @@ A futuristic, responsive weather forecasting website powered by AI and inspired 
 
 ---
 
-## 🎨 Color Theme
+##  Color Theme
 
 | Element | Hex |
 |--------|-----|
